@@ -1,7 +1,6 @@
 
-<img align="center" src="https://github.com/abhi21121211/abhi21121211/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner%20(1).png" />
 
-<h1 align="center" style="color:#fde1e8;font-size:78%;">Hello Developers here is <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Abhishek Dukare/></h1>
+<h1 align="center" style="color:#fde1e8;font-size:78%;">Hello Developers here is <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Akash Singh/></h1>
     
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -24,19 +23,19 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 <h2> ##  🙋‍♀️  About Me  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px height = 25px> </h2>    
 
 
-- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/seedling_1f331.png"> I’m currently working as a **frontend developer at QuickTouch PRT Ltd.**
+- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/seedling_1f331.png"> I’m currently working as a **frontend developer**
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/woman-dancing_1f483.png"> I’m looking to collaborate on **OpenSource Projects**
 
-- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/film-projector_1f4fd-fe0f.png"> All of my projects are available at **(https://abhi21121211.github.io)**
+- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/film-projector_1f4fd-fe0f.png"> All of my projects are available at **(https://AkashSingh2125.github.io)**
 
-- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/see-no-evil-monkey_1f648.png">How to reach me **abhishekdukare689@gmail.com**
+- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/see-no-evil-monkey_1f648.png">How to reach me **akash914293@gmail.com**
 
 - <img width=30px height=30px src="https://em-content.zobj.net/source/microsoft-teams/363/ghost_1f47b.png"> Fun fact - **I love to do swimming and have a keen interest in Travelling**
 <p style="margin-top:80px">
     
 <h2>Portfolio</h2>
-  <p>Check out my portfolio at <a href="https://abhi21121211.github.io/">https://abhi21121211.github.io</a></p>
+  <p>Check out my portfolio at <a href="https://AkashSingh2125.github.io/">https://AkashSingh2125.github.io</a></p>
   
  ## Connect me on:    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="120px" height="50px" >
 
@@ -76,8 +75,8 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 <br/>
 
 <p align="center">
-    <a href="https://github.com/abhi21121211/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="abhi21121211's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi21121211&theme=radical&hide_border=true&stroke=0000&background=#122722"/>
+    <a href="https://github.com/AkashSingh2125/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AkashSingh2125's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh2125&theme=radical&hide_border=true&stroke=0000&background=#122722"/>
     </a>
 </p>
 
@@ -87,32 +86,32 @@ I'm a full-stack web developer with experience in both front-end and back-end te
  
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi21121211&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh2125&theme=2077">
   </div>
   <div style="display: flex; justify-content: space-around; width: 100%;margin:20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi21121211&theme=2077">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi21121211&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSingh2125&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSingh2125&theme=2077">
   </div>
   <div style="display: flex; justify-content: space-around;  width: 100%;margin:20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhi21121211&theme=2077">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhi21121211&theme=2077&utcOffset=8">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkashSingh2125&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh2125&theme=2077&utcOffset=8">
   </div>
 </div>
 
 ## 🏆 Trophies :
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi21121211&theme=onedark" alt="abhi21121211" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AkashSingh2125&theme=onedark" alt="AkashSingh2125" /></a> </p>
 
 
 </p>
 
  <h2>❤ Views and Followers :</h2>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/abhi21121211/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=abhi21121211" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/AkashSingh2125/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=AkashSingh2125" >
     </a>
-    <a href="https://github.com/abhi21121211?tab=followers">
-        <img src="https://img.shields.io/github/followers/abhi21121211?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/AkashSingh2125?tab=followers">
+        <img src="https://img.shields.io/github/followers/AkashSingh2125?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
-    <h2><a href="https://abhi21121211.github.io/">🌍 | Portfolio </a></h2>
+    <h2><a href="https://AkashSingh2125.github.io/">🌍 | Portfolio </a></h2>
     <h1 align="center">Thank You !</h1>
